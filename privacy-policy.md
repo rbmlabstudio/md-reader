@@ -26,7 +26,9 @@ Las notificaciones son opcionales y muestran controles genéricos, sin texto del
 
 ## Contacto y cambios
 
-Responsable: **RBMLAB Studio**. Contacto: **rbmlabstudio@gmail.com**. Esta política se incluye íntegramente en Ajustes, disponible sin conexión. Su URL pública aún está pendiente antes de publicar en Google Play. Cada cambio lleva una fecha nueva. MD Reader no está diseñada específicamente para menores; la declaración de audiencia definitiva se completará en Play Console.
+Responsable: **RBMLAB Studio**. Contacto: **rbmlabstudio@gmail.com**. Esta política está disponible en Ajustes, sin conexión, y en su versión pública: https://rbmlabstudio.github.io/md-reader/privacy-policy.html. Las actualizaciones se publicarán en esa misma dirección e indicarán la fecha de revisión.
+
+MD Reader no está diseñada específicamente para menores de edad.
 
 ---
 
@@ -44,4 +46,6 @@ Google Play handles optional Pro payments. Its SDK delivers purchase information
 
 Document text is passed to your chosen Android TTS engine. Some voices may process text on their provider's servers; install an offline voice if needed. Other processes, including TTS and Play, can use their own network permission even though MD Reader has none. Network requirements are displayed when reported by the system. Optional notifications contain generic playback controls, without document text. The mediaPlayback foreground service supports Pro background reading. Web and email links open in other apps only after your action and confirmation. Remote images are not downloaded.
 
-Controller: **RBMLAB Studio**. Support: **rbmlabstudio@gmail.com**. This policy is included in Settings and available offline. A public privacy URL is still required before Google Play publication. Policy revisions carry a new date. The app is not specifically designed for children; final audience declarations remain to be completed in Play Console.
+Controller: **RBMLAB Studio**. Support: **rbmlabstudio@gmail.com**. This policy is available offline in Settings and online at https://rbmlabstudio.github.io/md-reader/privacy-policy.html. Updates will be published at that address with their revision date.
+
+MD Reader is not specifically designed for children.
